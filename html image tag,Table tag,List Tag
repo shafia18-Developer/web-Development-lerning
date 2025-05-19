@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Images,Table </title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <image src="https://via.placeholder.com/150" alt="Placeholder Image 1">
+
+        <table>
+            <!--Table Title-->
+            <caption>Employe Table</caption>
+            <thead>
+                <!--head content-->
+                <tr>
+                    <th>Name</th>
+                    <th>work</th>
+                    <th>Class</th>
+                </tr>
+            </thead>
+            <tbody>
+                <!--Body content-->
+                <tr>
+                    <td>Shafia</td>
+                    <td>Programmer</td>
+                    <td>JavaScript</td>
+                </tr>
+
+                <tr>
+                    <td>sam</td>
+                    <td colspan="1">Developer</td>
+                    <td>React</td>
+                </tr>
+            </tbody>
+
+            <tfoot>
+                <!--Footer content-->
+                <tr>
+                    <td rowspan="">Naruto Uzumaki</td>
+                    <td colspan="">Ninga</td>
+                    <td>Genin</td>
+                </tr>
+            </tfoot>
+        </table>
+
+        <caption>unorderd List</caption>
+        <ul type="square">
+            <li>Samsung</li>
+            <li>MAc Book</li>
+            <li>LinuX</li>
+        </ul>
+
+        <caption>Orderd List</caption>
+        <ol type="I">
+            <li>Pen</li>
+            <li>Library</li>
+            <li>Lorry</li>
+        </ol>
+
+
+
+        <script src="script.js"></script>
+</body>
+
+</html
