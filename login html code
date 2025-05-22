@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login Page</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.1/font/bootstrap-icons.min.css">
+   
+   
+</head>
+
+<body>
+    <div class="wrapper">
+    <h1>Login</h1>
+    <form action="">
+        <div class="input-box">
+            <input type="text" placeholder="uername">
+            <i class="bi bi-person-fill"></i>
+            
+
+        </div>
+        <div class="input-box">
+            <input type="text" placeholder="passward">
+            <i class="bi bi-lock-fill"></i>
+            
+            
+
+        </div>
+        <div class="remember-forgot">
+            <labul><input type="checkbox">Remember me</labul>
+            <a href="#">Forgot password?</a>
+        </div>
+
+        <button type="submit" class="btn">Login</button>
+
+        <div class="register-link">
+            <p>Don't have an account?
+                <a href="#">Register</a>
+            </p>
+        </div>
+
+    </form>
+
+</body>
+
+</html>
