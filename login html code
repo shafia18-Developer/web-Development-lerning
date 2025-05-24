@@ -37,7 +37,7 @@
 
         <div class="register-link">
             <p>Don't have an account?
-                <a href="#">Register</a>
+                <a href="signup.html">Sign Up</a>
             </p>
         </div>
 
