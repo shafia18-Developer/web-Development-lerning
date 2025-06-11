@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>inline css</title>
+</head>
+
+<body style="text-align: center; background-color: midnightblue; justify-content: center; display: flex; flex-direction: column; align-items: center; object-fit: contain;">
+    <!-- <a href="https://google.com">
+   <button style="font-size: 25px;background-color: antiquewhite; color: blueviolet; border-radius: 25px;">Click Here</button>
+ </a> -->
+    <h1 style="font-size: 55; color: white;">Movies</h1>
+  <div style="color: yellow; font-size: 32; font-family: arial;">5.Ratatouille</div><br> 
+   <img src="https://cofca.org/wp-content/uploads/2016/11/MV5BMTMzODU0NTkxMF5BMl5BanBnXkFtZTcwMjQ4MzMzMw@@._V1_SX9999.jpg" alt="Ratatouille">
+    <br>
+   <div style="color: yellow; font-size: 32; font-family: arial;">4.Toy Story</div><br>
+   <img src="https://tiermaker.com/images/templates/toy-story-film-e-corti-15271194/152711941660342776.jpg" alt="Toy Story">
+    <br>
+  <div style="color: yellow; font-size: 32; font-family: arial;">3.The Lion King</div><br>
+    <img src="https://th.bing.com/th/id/OIP.-OFkUcfCgtxiolQLHu63UQHaLA?r=0&rs=1&pid=ImgDetMain" alt="The Lion King">
+    <br>
+   <div style="color: yellow; font-size: 32; font-family: arial;">2.Finding Nemo</div><br>
+   <img src="https://picfiles.alphacoders.com/355/thumb-1920-355670.jpg" alt="Finding Nemo"></div>
+    <br>
+   <div style="color: yellow; font-size: 32; font-family: arial;">1.WALL-E</div><br>
+   <img src="https://resizing.flixster.com/cAPBycTaGTyvL5knoQfGAocmLTY=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2FkODNhNzI1LTRhOWItNDg0OC05ODcxLWM5NDlmMzVhZTYxYi53ZWJw" alt="WALL-E">
+    
+    
+</body>
+
+</html>
