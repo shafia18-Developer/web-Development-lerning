@@ -1,0 +1,203 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+   <meta charset="UTF-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <title>Educational Website</title>
+   <link rel="stylesheet" href="styles2.css">
+</head>
+
+<body>
+   <div class="top-header" id="home">
+      <header>
+         <nav>
+            <div class="logo">
+               <img
+                  src="https://st3.depositphotos.com/29475518/33121/v/450/depositphotos_331213306-stock-illustration-education-logo-design-vector-template.jpg"
+                  alt="" class="logo-img">
+            </div>
+            <ul>
+               <li><a href="#home">Home</a></li>
+               <li><a href="#feature">Books</a></li>
+               <li><a href="#courses">Courses</a></li>
+               <li><a href="#others">Others</a></li>
+               <li><a href="#">Blog</a></li>
+               <li><a href="signup.html" class="btn">Sign in</a></li>
+            </ul>
+         </nav>
+      </header>
+      <section class="hero-section" >
+        <video autoplay loop muted class="back-video">
+         <source src="https://youtu.be/jF_k3XS9BsE" type="video">
+        </video>
+         <div class="hero-box">
+            <div class="left-box">
+               <h1>Welcome to Our Educational Website</h1>
+               <p>Explore a wide range of books, courses, and resources to enhance your learning experience.</p>
+               <a href="#" class="btn started">Get Started</a>
+            </div>
+            <div class="right-box">
+               <img src="https://www.onlinestudynepal.com/wp-content/uploads/2021/12/class.jpg" alt=""
+                  class="right-img">
+            </div>
+         </div>
+      </section>
+   </div>
+   <section class="feature" id="feature">
+      <div class="boxes">
+         <img src="https://cdn-icons-png.flaticon.com/512/4959/4959607.png" alt="book image" style="width: 60px;">
+         <h2>1500+ Topic</h2>
+         <p>Learn anything</p>
+      </div>
+
+      <div class="boxes">
+         <img
+            src="https://loyneschool.org.uk/wp-content/uploads/teaching-approaches-whole-class-and-small-groups-icon-480x480.png"
+            alt="book image" style="width: 60px;">
+         <h2>1800+ Students</h2>
+         <p>Learn anything</p>
+      </div>
+
+      <div class="boxes">
+         <img src="https://cdn0.iconfinder.com/data/icons/logistics-4/512/pad-1024.png" alt="book image"
+            style="width: 60px;">
+         <h2>9k+ Test Tokens</h2>
+         <p>Learn anything</p>
+      </div>
+
+      <div class="boxes">
+         <img src="https://cdn.iconscout.com/icon/premium/png-256-thumb/double-tick-2-571364.png" alt="book image"
+            style="width: 60px;">
+         <h2>Live Doubts</h2>
+         <p>Learn anything</p>
+      </div>
+   </section>
+
+   <div class="course-top" id="courses">
+      <div class="online-title">
+         <h1>Online Courses</h1>
+      </div>
+   </div>
+   <section class="online-courses">
+      <div class="online-box">
+         <img src="https://www.sureteam.co.uk/wp-content/uploads/2019/06/New_healthy_working_system.jpeg" alt="">
+         <h2>Modern Physics</h2>
+         <p>Designation</p>
+         <a href="#" class="btn Started course-btn">Buy Course</a>
+         <div class="bottom-feature">
+            <div class="left-date">
+               <img
+                  src="https://static.vecteezy.com/system/resources/previews/024/241/520/non_2x/line-art-illustration-of-calendar-icon-vector.jpg"
+                  alt="" style="width: 20px; height: 20px;">
+               <p>Start 30 July 2025</p>
+            </div>
+
+            <div class="right-stu">
+               <img
+                  src="https://cdn0.iconfinder.com/data/icons/superuser-web-kit-thin/512/686943-users_people_men_humans_heads_persons-512.png"
+                  alt="" style="width: 20px; height: 20px;">
+               <p>60 Seats</p>
+            </div>
+         </div>
+      </div>
+
+      <div class="online-box">
+         <img src="https://www.sureteam.co.uk/wp-content/uploads/2019/06/New_healthy_working_system.jpeg" alt="">
+         <h2>Modern Physics</h2>
+         <p>Designation</p>
+         <a href="#" class="btn started course-btn">Buy Course</a>
+         <div class="bottom-feature">
+            <div class="left-date">
+               <img
+                  src="https://static.vecteezy.com/system/resources/previews/024/241/520/non_2x/line-art-illustration-of-calendar-icon-vector.jpg"
+                  alt="" style="width: 20px; height: 20px;">
+               <p>Start 30 July 2025</p>
+            </div>
+
+            <div class="right-stu">
+               <img
+                  src="https://cdn0.iconfinder.com/data/icons/superuser-web-kit-thin/512/686943-users_people_men_humans_heads_persons-512.png"
+                  alt="" style="width: 20px; height: 20px;">
+               <p>60 Seats</p>
+            </div>
+         </div>
+      </div>
+
+      <div class="online-box">
+         <img src="https://www.sureteam.co.uk/wp-content/uploads/2019/06/New_healthy_working_system.jpeg" alt="">
+         <h2>Modern Physics</h2>
+         <p>Designation</p>
+         <a href="#" class="btn started course-btn">Buy Course</a>
+         <div class="bottom-feature">
+            <div class="left-date">
+               <img
+                  src="https://static.vecteezy.com/system/resources/previews/024/241/520/non_2x/line-art-illustration-of-calendar-icon-vector.jpg"
+                  alt="" style="width: 20px; height: 20px;">
+               <p>Start 30 July 2025</p>
+            </div>
+
+            <div class="right-stu">
+               <img
+                  src="https://cdn0.iconfinder.com/data/icons/superuser-web-kit-thin/512/686943-users_people_men_humans_heads_persons-512.png"
+                  alt="" style="width: 20px; height: 20px;">
+               <p>60 Seats</p>
+            </div>
+         </div>
+      </div>
+   </section>
+
+   <section class="testimonial" id="others">
+      <div class="test-title">
+         <h3>Testimonial</h3>
+      </div>
+      <div class="testimonial-box">
+         <img
+            src="https://www.creativefabrica.com/wp-content/uploads/2022/03/20/Business-women-Illustration-Graphics-27535626-1-580x387.jpg"
+            alt="" style="width: 190px;">
+         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor sequi sed harum quo voluptates natus ut
+            distinctio cumque, doloremque necessitatibus modi laboriosam nulla est culpa. Soluta quae distinctio natus,
+            aliquam necessitatibus quia, obcaecati debitis iure modi facilis tempore beatae autem.</p>
+      </div>
+   </section>
+
+   <footer>
+      <div class="footer-box" id="footer">
+         <div class="footer-lins footer-about">
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Repudiandae fugiat earum quae sequi fuga dicta
+               quo laudantium, recusandae et sit?</p>
+         </div>
+
+         <div class="footer-links">
+            <h3>Courses</h3>
+            <a href="#">Graphics Design</a>
+            <a href="#">Web Design</a>
+            <a href="#">Business</a>
+            <a href="#">Marketing</a>
+            <a href="#">Engineering</a>
+         </div>
+
+         <div class="footer-links">
+            <h3>Terms</h3>
+            <a href="#">Graphics Design</a>
+            <a href="#">Web Design</a>
+            <a href="#">Business</a>
+            <a href="#">Marketing</a>
+            <a href="#">Engineering</a>
+         </div>
+
+         <div class="footer-links">
+            <h3>Useful links</h3>
+            <a href="#">Graphics Design</a>
+            <a href="#">Web Design</a>
+            <a href="#">Business</a>
+            <a href="#">Marketing</a>
+            <a href="#">Engineering</a>
+         </div>
+      </div>
+      <p class="end">Copyright &copy;2025 Education</p>
+   </footer>
+
+</body>
+
+</html>
