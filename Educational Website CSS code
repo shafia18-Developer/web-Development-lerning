@@ -87,14 +87,6 @@ nav ul li a:hover {
     padding: 40px 100px;
 }
 
-.back-video{
-    position: absolute;
-    right: 0;
-    bottom: 0;
-    z-index: -1;
-    min-width: 100%;
-
-}
 
 .left-box {
     margin-left: 40px;
