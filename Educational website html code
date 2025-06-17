@@ -28,9 +28,7 @@
          </nav>
       </header>
       <section class="hero-section" >
-        <video autoplay loop muted class="back-video">
-         <source src="https://youtu.be/jF_k3XS9BsE" type="video">
-        </video>
+         <video src="Black and White Modern Quote Motivation Success Video - Copy.mp4" autoplay loop muted ></video>  
          <div class="hero-box">
             <div class="left-box">
                <h1>Welcome to Our Educational Website</h1>
