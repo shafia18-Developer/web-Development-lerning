@@ -197,6 +197,101 @@
       </div>
       <p class="end">Copyright &copy;2025 Education</p>
    </footer>
+</body>
+</html>
+
+<!---------------------------------------------- Educational website Registation form html & CSS code --------------------------------------------------!>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Registration Form</title>
+    <style>
+        *{
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+        body {
+            font-family: Arial, sans-serif;
+            background:url('https://static.vecteezy.com/system/resources/previews/013/545/792/original/modern-colorful-wavy-line-background-design-white-wave-curve-abstract-background-for-business-landing-page-flyers-and-website-vector.jpg');
+            padding: 20px;
+            
+        }
+        h2 {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+        form {
+            max-width: 400px;
+            margin: auto;
+            background-color: white;
+            padding: 20px;
+            border-radius: 5px;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+        }
+        label {
+            display: block;
+            margin-bottom: 8px;
+            font-weight: bold;
+        }
+        input[type="text"],
+        input[type="email"],
+        select,
+        textarea {
+            width: 100%;
+            padding: 10px;
+            margin-bottom: 15px;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+        }
+        
+        button {
+            width: 100%;
+            padding: 10px;
+            background-color: #28a745;
+            color: white;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+
+    </style>
+</head>
+
+<body>
+    <h2>Register</h2>
+    <form action="website.html" method="post">
+        <label for="name">Name:</label>
+        <input type="text" id="name" name="name" required>
+
+        <label>Mobile no.</label>
+        <input type="text">
+
+        <label for="email">Email:</label>
+        <input type="email" id="email" name="email" required>
+
+        
+
+        <label>Select Course</label>
+        <select>
+            <option>select...</option>
+            <option>c</option>
+            <option>c++</option>
+            <option>java</option>
+            <option>python</option>
+        </select>
+        <label>Address</label>
+        <textarea style="height: 100px;" placeholder="Enter your address..."></textarea>
+
+
+        <button type="submit">Submit</button>
+    </form>
+
+
+
 
 </body>
 
